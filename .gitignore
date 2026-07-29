@@ -1,0 +1,13 @@
+# Environment variables
+.env
+.env.*
+
+# Credentials
+credentials/
+*.json.key
+service_account*.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
