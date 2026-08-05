@@ -11,3 +11,9 @@ service_account*.json
 __pycache__/
 *.pyc
 venv/
+
+# JS / frontend (web/)
+web/node_modules/
+web/dist/
+web/.vite/
+web/*.local
